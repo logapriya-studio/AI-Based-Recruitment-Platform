@@ -1,0 +1,6 @@
+{
+  "name": "AI Recruitment Platform",
+  "description": "An industry-level AI Recruitment & Hiring Platform featuring AI-powered Resume Screening, Coding Evaluations, Technical & HR Interactive Interviews, and Recruiter Recommendation engines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
